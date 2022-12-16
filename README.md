@@ -3,7 +3,7 @@
 ## Title
 <br />
 <div align="center">
-  <a href="https://sky--bnb.herokuapp.com/#/">
+  <a href="https://skybnb.onrender.com/">
     <img src="https://res.cloudinary.com/nogacloud/image/upload/v1659367634/other/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,7 +39,7 @@
   </ol>
 </details>
 
-
+<h3>Check out the live site <a href="https://skybnb.onrender.com/">here</a></h3>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -88,16 +88,16 @@ run command npm install -g @vue/cli (if you don't have vuejs on your computer)
 
 ### Installation
 The app will work only if you download both frontend and backend<br><br>
-Project frontend: https://github.com/Noga-Ran/frontend<br>
-Project Backend: https://github.com/Noga-Ran/backend<br><br>
+Project frontend: https://github.com/Idan-Maimon1/Skybnb-frontend<br>
+Project Backend: https://github.com/Idan-Maimon1/Skybnb-backend<br><br>
 see that you do the following steps to both of the repositories<br>
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Noga-Ran/frontend
+   git clone https://github.com/Idan-Maimon1/Skybnb-frontend
    ```
    ```sh
-   git clone https://github.com/Noga-Ran/backend
+   git clone https://github.com/Idan-Maimon1/Skybnb-backend
    ```
 2. Install NPM packages
    ```sh
@@ -146,8 +146,8 @@ Inbal Prital - https://github.com/InbalPrital - inbalprital@gmail.com
 
 Noga Ran - https://github.com/Noga-Ran - nogaran01@gmail.com
 
-Project frontend: https://github.com/Noga-Ran/frontend<br>
-Project Backend: https://github.com/Noga-Ran/backend
+Project frontend: https://github.com/Idan-Maimon1/Skybnb-frontend<br>
+Project Backend: https://github.com/Idan-Maimon1/Skybnb-backend
 <p align="right">(<a href="#title">back to top</a>)</p>
 
 
