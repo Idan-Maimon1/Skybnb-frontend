@@ -3,7 +3,7 @@
 ## Title
 <br />
 <div align="center">
-  <a href="https://skybnb.onrender.com/">
+  <a href="https://sky-bnb.onrender.com/">
     <img src="https://res.cloudinary.com/nogacloud/image/upload/v1659367634/other/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,7 +39,7 @@
   </ol>
 </details>
 
-<h3>Check out the live site <a href="https://skybnb.onrender.com/">here</a></h3>
+<h3>Check out the live site <a href="https://sky-bnb.onrender.com/">here</a></h3>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
